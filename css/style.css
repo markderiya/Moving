@@ -208,7 +208,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     color: yellow;
-    font-size: clamp(2.8rem, 8vw, 12rem);
+    font-size: clamp(2.5rem, 8vw, 12rem);
     animation-name: caption;
     animation-duration: 5s;
 }
